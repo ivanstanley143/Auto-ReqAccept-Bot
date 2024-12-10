@@ -4,3 +4,5 @@ dnspython
 motor
 Flask
 gunicorn
+aiohttp
+pymongo
