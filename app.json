@@ -2,7 +2,7 @@
     "name": "Auto-ReqAccept-Bot",
     "description": "This Is A Telegram For Automatically Accept Chat Join Request With Broadcast &amp; Users Database Feature",
     "keywords": ["telegram", "AutoRequestAccept", "Bot"],
-    "repository": "https://t.me/+eAQHhr5bN2U0ODI9",
+    "repository": "https://github.com/MrMKN/Auto-ReqAccept-Bot",
     "env": {
         "API_ID": {"description": "Goto https://my.telegram.org To Obtain This."},
         "API_HASH": {"description": "Goto https://my.telegram.org To Obtain This"},
