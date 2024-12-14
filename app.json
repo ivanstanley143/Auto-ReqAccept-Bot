@@ -9,6 +9,7 @@
         "API_HASH": {"description": "Goto https://my.telegram.org To Obtain This"},
         "BOT_TOKEN": {"description": "5204820983:AAH9uNHFa8jbRYgLsDqjhstgIXNAl_9odnI"},
         "ADMINS": {"description": "561339410"},
+        "AUTH_CHANNEL": {"description": "-1002297329742"},
         "DB_URL": {"description": "mongodb+srv://jamiedornankoyyodan:jamiedornankoyyodan@cluster0.ioz6q.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
     },
     "buildpacks": [{"url": "heroku/python"}]
