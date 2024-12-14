@@ -6,6 +6,7 @@
     "env": {
         "API_ID": {"description": "16795822"},
         "API_HASH": {"description": "791cc620cf2344a0fbf20b258fa679d2"},
+        "API_HASH": {"description": "Goto https://my.telegram.org To Obtain This"},
         "BOT_TOKEN": {"description": "5204820983:AAH9uNHFa8jbRYgLsDqjhstgIXNAl_9odnI"},
         "ADMINS": {"description": "561339410"},
         "DB_URL": {"description": "mongodb+srv://jamiedornankoyyodan:jamiedornankoyyodan@cluster0.ioz6q.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
