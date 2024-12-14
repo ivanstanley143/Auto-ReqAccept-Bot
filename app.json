@@ -7,7 +7,7 @@
         "API_ID": {"description": "Goto https://my.telegram.org To Obtain This."},
         "API_HASH": {"description": "Goto https://my.telegram.org To Obtain This"},
         "API_HASH": {"description": "Goto https://my.telegram.org To Obtain This"},
-        "BOT_TOKEN": {"description": "Get The Bot Token From https://telegram.dog/BotFather"},
+        "BOT_TOKEN": {"description": "5204820983:AAH9uNHFa8jbRYgLsDqjhstgIXNAl_9odnI"},
         "ADMINS": {"description": "Your Telegram ID form @Tgraph_Multi_Bot click /id in this bot"},
         "DB_URL": {"description": "MongoDB URI For https://mongodb.com"}
     },
